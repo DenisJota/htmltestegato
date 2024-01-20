@@ -1,0 +1,27 @@
+.verde{
+    background-color: green
+}
+
+.azul {
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+.center{
+    justify-content: center;
+}
+.card-img-top{
+    width: 200px;
+}
+
+.card{
+    align-items: center;
+    justify-content: center;
+    display: flexbox;
+    padding: 10px;
+    margin: 3px;
+
+
+}
